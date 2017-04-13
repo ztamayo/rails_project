@@ -1,4 +1,4 @@
-== README - updated
+== README - Test Rails App - Zailyn Tamayo
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
